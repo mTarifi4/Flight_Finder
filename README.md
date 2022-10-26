@@ -13,3 +13,5 @@ Twilio SMS API - https://www.twilio.com/docs/sms
 make sure to signup and get  an API key and API endpoint for each of the foloowing APIs  
 
 # After setting up your free accounts, insert your information in the following python files and run the code to get the cheapest deals 
+
+m.Tarifi4
